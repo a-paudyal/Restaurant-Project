@@ -1,0 +1,19 @@
+#topnavbar li {
+text-decoration: none;
+display: inline;
+float: right;
+padding: 15px;
+}
+#topnavbar li:hover {
+  background-color: black;
+  color: yellow;
+}
+a {
+text-decoration: none;
+font-family: monospace;
+font-size: 45px;
+color: orange;
+}
+#topnavbar li a:hover{
+  color: yellow;
+}
