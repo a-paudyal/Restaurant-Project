@@ -1,0 +1,90 @@
+body{
+  margin: 0px;
+  background-color: #cccc00;
+}
+
+#topNav{
+  background-color: #808000;
+  height: 20%;
+  margin: 0px;
+  border-bottom: 2px solid black;
+}
+
+#topNav li{
+    text-decoration: none;
+    display: inline;
+    float: right;
+    padding: 39px 49px;
+}
+
+#topNav li:hover{
+  background-color: #4d4d00;
+}
+
+#topNav li a{
+     text-decoration: none;
+     font-family:monospace;
+     font-size: 40px;
+     color: white;
+}
+
+#topNav li a:hover{
+  color: #cccc00;
+}
+
+#menuNav{
+    height: 100%;
+    width: 80px;
+    border-right: 2px solid black;
+    background-color: #999900;
+    margin: 0px;
+    float: left;
+}
+
+#menuNav li{
+  text-decoration: none;
+  display: inline;
+  float: left;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#menuNav li:hover{
+  background-color: #666600;
+}
+#menuNav li a {
+  text-decoration: none;
+  font-family:monospace;
+  font-size: 20px;
+  color: white;
+}
+#menuNav h2{
+  text-decoration: none;
+  font-family: fantasy;
+  font-size: 30px;
+  color: white;
+}
+hr{
+  height: 2px;
+  background-color: black;
+  border: none;
+}
+p{
+  text-decoration: none;
+  font-family: monospace;
+  color: white;
+  font-size: 20px;
+}
+h1{
+  text-decoration: none;
+  font-family: fantasy;
+  font-size: 60px;
+  color: white;
+}
+img{
+  opacity: 0.2;
+}
+img:hover{
+  opacity: 1;
+}
